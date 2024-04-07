@@ -1,1 +1,1 @@
-# Brain_tumor_detector
+Dataset from: https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset
